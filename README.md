@@ -16,3 +16,8 @@ Short decriptions for all of the projects that I have done:
   + Program language: C
   + Operating System: Linux
   + About the program: TCP server sending system time after call from client (request - message 80 char string with request “get time”, response – message 80 char string with formatted time) through a chosen port number established by Server.
+
+4. Flight booking application:
+  + Program language: Java
+  + Operating System: Windows
+  + About the application: The application using SQLite ,log4j and SWING package to operate. User can book flight according to the chosen destination and time. And a separated panel with admin access only (via name and password) to add and edit flight schedule and booking list. 
