@@ -1,0 +1,32 @@
+2020-06-25 22:09:53 DEBUG [main] [base] line: 90 - Create new Frame
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 27 - Connection to databases is established
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 93 - Updating booking table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 73 - Updating flights table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 74 - Updating flight_id table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 73 - Updating flights table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 74 - Updating flight_id table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 73 - Updating flights table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 74 - Updating flight_id table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 73 - Updating flights table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 74 - Updating flight_id table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 73 - Updating flights table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 74 - Updating flight_id table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 73 - Updating flights table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 74 - Updating flight_id table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 73 - Updating flights table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 74 - Updating flight_id table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 54 - Updating dates table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 54 - Updating dates table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 54 - Updating dates table
+2020-06-25 22:09:54 DEBUG [AWT-EventQueue-0] [base] line: 109 - Button BookIt disabled
+2020-06-25 22:10:00 DEBUG [AWT-EventQueue-0] [base] line: 40 - Connection to databases was closed
