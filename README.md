@@ -21,3 +21,8 @@ Short decriptions for all of the projects that I have done:
   + Program language: Java
   + Operating System: Windows
   + About the application: The application using SQLite ,log4j and SWING package to operate. User can book flight according to the chosen destination and time. And a separated panel with admin access only (via name and password) to add and edit flight schedule and booking list. 
+
+5. [Video Quality Rating](https://github.com/tdt93/Video_Quality_Rating)
+  + Program language: Python
+  + Operating System: Windows
+  + About the application: Let users watch sequences of videos and rate their each one based on quality and satisfaction. Results will be stored in remote database.
